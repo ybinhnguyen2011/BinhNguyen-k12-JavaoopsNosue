@@ -11,7 +11,7 @@ public class Lab02_02 {
         if (myNum%2 ==0){
             System.out.print("It is even number!");
         } else {
-            System.out.print("It is odd number!");
+            System.out.print("It is old number!");
 
         }
     }
